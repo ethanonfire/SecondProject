@@ -31,10 +31,6 @@ public class MainActivity extends AppCompatActivity
 
     Button button;
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
