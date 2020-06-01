@@ -1,0 +1,3 @@
+rootProject.name='INTERAPPCOM'
+include ':app'
+include ':app2'
